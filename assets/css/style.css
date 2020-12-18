@@ -20,7 +20,7 @@ header h1 { /* deleted reference to <div class=header>*/
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo { /*removed header h1*/
     color: #d9dcd6;
 }
 
